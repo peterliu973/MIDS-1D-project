@@ -34,4 +34,12 @@ The script assumes the binary for darkhttpd is in <code>~/darkhttpd/darkhttpd</c
 
 * When you have received feedback, fix things that are broken and then merge your working branch to Master.
 
-Requires recode to be installed.  sudo apt install recode
+###Rules:
+
+* Use only Shell script (no Python etc).
+* Comment your code!
+* Document command lines used and their output in your project REAMDE.md.
+* Make sure your README.md is in proper Markdown formatting so others can read it.
+
+For questions reach out to dschib@berkeley.edu or open a ticket (issue) in the 1D Computing Basics GitHub repo
+
