@@ -34,12 +34,8 @@ The script assumes the binary for darkhttpd is in <code>~/darkhttpd/darkhttpd</c
 
 * When you have received feedback, fix things that are broken and then merge your working branch to Master.
 
-###Rules:
 
-* Use only Shell script (no Python etc).
-* Comment your code!
-* Document command lines used and their output in your project REAMDE.md.
-* Make sure your README.md is in proper Markdown formatting so others can read it.
+### PR ready for review:
 
-For questions reach out to dschib@berkeley.edu or open a ticket (issue) in the 1D Computing Basics GitHub repo
+* Pull Request https://github.com/peterliu973/MIDS-1D-project/pull/1
 
