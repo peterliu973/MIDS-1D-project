@@ -45,11 +45,3 @@ There are more than 150 images, way too many to include them one by one in the w
 
 For questions reach out to dschib@berkeley.edu or open a ticket (issue) in the 1D Computing Basics GitHub repo
 
-## command line
-
-gen-index-html.sh - generates index2.html which displays all images in 3 columns.
-darkhttpd ~/website --port 12345& - serves the content
-
-looking up a process id - ps -elf | grep darkhttpd
-
-Requires recode to be installed.  sudo apt install recode
